@@ -43,6 +43,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Abstract Submission",
+      "course": " VIP SoCET Fall 2026",
+      "dueDate": "2026-10-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/1365046/assignments/8460774/submissions/new",
+      "submitted": false
+    },
+    {
       "title": "Professional Development Plan",
       "course": " VIP SoCET Fall 2026",
       "dueDate": "2026-09-11T23:59:00",
@@ -197,6 +204,13 @@ assignments = {
       "dueDate": "2026-09-11T08:22:00",
       "link": "https://www.gradescope.com/courses/1342109/assignments/8604684/submissions/425297045",
       "submitted": true
+    },
+    {
+      "title": "Quiz 9",
+      "course": "ECE 30411-002",
+      "dueDate": "2026-09-14T08:22:00",
+      "link": "https://www.gradescope.com/courses/1342109/assignments/8623825/submissions/426009321",
+      "submitted": true
     }
   ],
   "ECE 305 Fall 2026": [
@@ -231,6 +245,13 @@ assignments = {
       "dueDate": "2026-09-11T23:59:00",
       "link": "https://www.gradescope.com/courses/1370819/assignments/8486237/submissions/425484829",
       "submitted": true
+    },
+    {
+      "title": "Homework 2",
+      "course": "wl.202710.ECE.30100.004",
+      "dueDate": "2026-09-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/1370819",
+      "submitted": false
     }
   ]
 };
