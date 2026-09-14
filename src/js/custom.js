@@ -19,7 +19,7 @@ const charts = [];
 //    Global Variables    //
 ////////////////////////////
 let parsedAssignments = [];
-let numDays = 14;
+let numDays = 7;
 let reference = getToday();
 
 
